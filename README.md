@@ -1,44 +1,40 @@
-# SplitPay - Bill Payment & Expense Splitting App
+# Eat-n-Split - Bill Payment & Expense Splitting App
 
-SplitPay is a user-friendly bill payment and expense-splitting application built using React. Simplify your group expenses and dining bills by effortlessly managing the splitting of costs among friends. With a clean and intuitive interface, this app allows users to input bills, allocate costs, and settle debts within a friend group, ensuring fairness and ease in financial transactions.
+Eat-n-Split is a user-friendly bill payment and expense-splitting application built using React. Simplify your group expenses and dining bills by effortlessly managing the splitting of costs among friends. With a clean and intuitive interface, this app allows users to input bills, allocate costs, and settle debts within a friend group, ensuring fairness and ease in financial transactions.
 
 ## Key Features
 
 -   **Expense Tracking:** Easily input and categorize bills, including meals, outings, and shared expenses.
--   **Friend Groups:** Organize and manage expenses within customizable friend groups.
 -   **Real-time Splitting:** Instantly calculate and split bills among multiple users.
--   **Payment Options:** Various payment methods integrated for seamless transactions.
 -   **Transaction History:** Track and review past expenses and settlements.
--   **Notifications:** Get alerts for pending payments and recent activity.
 
 ## Technologies Used
 
 -   React
--   JavaScript/TypeScript
+-   JavaScript
 -   HTML/CSS
--   Redux (for state management)
--   Firebase/Node.js (for backend and data storage)
--   Payment API integration (e.g., Stripe, PayPal)
+-   Node.js (for backend)
 
 ## Installation Guide
 
 1. Clone the repository.
-2. Install dependencies using npm/yarn.
-3. Set up environment variables.
-4. Run the app locally using `npm start`.
+    ```
+    git clone https://github.com/eik-1/Eat-n-Split
+    cd Eat-n-Split
+    ```
+2. Install dependencies using npm.
+3. Run the app locally using `npm start`.
 
 ## Contributing
 
-Contributions and bug fixes are welcomed! Please refer to the CONTRIBUTING.md file for guidelines on how to contribute.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+Contributions and bug fixes are welcomed!
 
 ## Demo
 
 [Add a link to a live demo or a video walkthrough here.]
 
-## Acknowledgments
+## Thank You
 
-Acknowledgment to contributors, libraries used, or any other references.
+## Follow
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/dcd0ff"/>](https://www.instagram.com/eik.crimes/) [<img height="32" width="32" src="https://cdn.simpleicons.org/twitter/dcd0ff"/>](https://twitter.com/sarthakrawatbiz) [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/dcd0ff"/>](https://www.linkedin.com/in/sarthak-raw-eth/)
