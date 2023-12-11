@@ -1,6 +1,6 @@
-# Eat-n-Split - Bill Payment & Expense Splitting App
+# SplitPay - Bill Payment & Expense Splitting App
 
-Eat-n-Split is a user-friendly bill payment and expense-splitting application built using React. Simplify your group expenses and dining bills by effortlessly managing the splitting of costs among friends. With a clean and intuitive interface, this app allows users to input bills, allocate costs, and settle debts within a friend group, ensuring fairness and ease in financial transactions.
+SplitPay is a user-friendly bill payment and expense-splitting application built using React. Simplify your group expenses and dining bills by effortlessly managing the splitting of costs among friends. With a clean and intuitive interface, this app allows users to input bills, allocate costs, and settle debts within a friend group, ensuring fairness and ease in financial transactions.
 
 ## Key Features
 
@@ -14,9 +14,11 @@ Eat-n-Split is a user-friendly bill payment and expense-splitting application bu
 ## Technologies Used
 
 -   React
--   JavaScript
+-   JavaScript/TypeScript
 -   HTML/CSS
--   Node.js (for backend)
+-   Redux (for state management)
+-   Firebase/Node.js (for backend and data storage)
+-   Payment API integration (e.g., Stripe, PayPal)
 
 ## Installation Guide
 
